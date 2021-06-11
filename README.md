@@ -1,4 +1,4 @@
-## Hi there, go to see you 👋
+## Hi there, nice to see you here, here are some informations about myself along side some channels to communicate with me👋
 
 ### 📫 How to reach me: ...
 <div class = "get-in-touch">
@@ -19,6 +19,7 @@
     <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
     <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 </div>
 
 ### 🌱 I’m currently learning ...
